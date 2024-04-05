@@ -12,6 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=aNothng
 device.name2=NothingPhone1
+device.name3=Spacewar
 supported.versions=11 - 14
 supported.patchlevels=
 '; } # end properties

@@ -10,9 +10,8 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=aNothng
-device.name2=NothingPhone1
-device.name3=Spacewar
+device.name1=samsung
+device.name2=m52xq
 supported.versions=11 - 14
 supported.patchlevels=
 '; } # end properties
